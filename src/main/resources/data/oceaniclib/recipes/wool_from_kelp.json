@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	
+	"pattern": [
+		"BB",
+		"BB"
+	],
+	
+	"key":
+	{
+		"B":
+		{
+			"item": "oceaniclib:kelp_string"
+		}
+	},
+	
+	"result":
+	{
+		"item": "minecraft:black_wool",
+		"count": 1
+	}
+	
+	
+}

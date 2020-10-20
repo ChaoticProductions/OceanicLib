@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+		
+	"ingredients": [
+        {
+            "tag": "oceaniclib:paper"
+        },
+        
+        {
+            "tag": "oceaniclib:paper"
+        },
+        
+        {
+            "tag": "oceaniclib:paper"
+        },
+        
+        {
+            "tag": "oceaniclib:skins"
+        }
+	],
+	"result":
+	{
+		"item": "minecraft:book",
+		"count": 1
+	}
+	
+	
+}
